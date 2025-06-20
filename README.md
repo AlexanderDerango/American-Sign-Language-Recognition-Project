@@ -23,3 +23,4 @@ This project implements a real-time American Sign Language (ASL) hand sign recog
 ### Instructions for Running the Live Demo
 Requirements:
 * pip install -r requirements.txt
+* Need to be running Python 3.10 or 3.11
