@@ -1,4 +1,4 @@
-# Machine Learninig Student Network Spring 2025 Project
+# Machine Learning Student Network Spring 2025 Project
 
 ## American Sign Language Hand Recognition
 
