@@ -1,9 +1,5 @@
 # American Sign Language Hand Recognition with MobileNetV2
 
-## Abstract
-
-A real-time American Sign Language (ASL) hand sign recognition system that uses transfer learning with MobileNetV2 to classify ASL letters A–E. The trained TensorFlow model is integrated with OpenCV and MediaPipe for live webcam-based hand detection and prediction.
-
 ## Project Overview
 
 This project was developed as part of the **Machine Learning Student Network (MLSN) Spring 2025 Project**.
