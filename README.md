@@ -165,6 +165,7 @@ The hand region is resized and normalized before being passed to the trained mod
 
 ```text
 .
+├── MLSN Sign-Language Slideshow.pdf
 ├── MLSN_project.ipynb
 ├── asl_demo.py
 ├── ASL_model.h5
@@ -185,6 +186,9 @@ Saved TensorFlow/Keras model trained to classify ASL letters A–E.
 
 **`requirements.txt`**
 Python dependencies required to run the project.
+
+**`MLSN Sign-Language Slideshow.pdf`**
+Presentation slides at MLSN Showcase. 
 
 ## Installation
 
